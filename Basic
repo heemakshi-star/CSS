@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<style>
+		body {
+			background-color: lightblue;
+		}
+
+		h1 {
+			font-family: courier;
+			color: black;
+			text-align: center;
+		}
+
+		p {
+			font-family: arial;
+		}
+
+		ul {
+			font-family: arial;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Web Technology</h1>
+	<p>Web Technology refers to the various tools and techniques that are utilized in the process of communication
+		between different types of devices over the internet. A web browser is used to access web pages. Web browsers
+		can be defined as programs that display text, data, pictures, animation, and video on the Internet. Hyperlinked
+		resources on the World Wide Web can be accessed using software interfaces provided by Web browsers.
+		Web Technology can be classified into the following sections:
+	<ul>
+		<li>World Wide Web (WWW): The World Wide Web is based on several different technologies : Web browsers,
+			Hypertext Markup Language (HTML) and Hypertext Transfer Protocol (HTTP).</li>
+		<li>Web Browser: The web browser is an application software to explore www (World Wide Web). It provides an
+			interface between the server and the client and requests to the server for web documents and services.</li>
+		<li>Web Server: Web server is a program which processes the network requests of the users and serves them with
+			files that create web pages. This exchange takes place using Hypertext Transfer Protocol (HTTP).</li>
+		<li>Web Pages: A webpage is a digital document that is linked to the World Wide Web and viewable by anyone
+			connected to the internet has a web browser.</li>
+		<li>Web Development: Web development refers to the building, creating, and maintaining of websites. It includes
+			aspects such as web design, web publishing, web programming, and database management. It is the creation of
+			an application that works over the internet i.e. websites.</li>
+		<li>Web Development can be classified into two ways:</li>
+		<ul>
+			<li>Frontend Development: The part of a website that the user interacts directly is termed as front end. It
+				is also referred to as the ‘client side’ of the application.</li>
+			<li>Backend Development: Backend is the server side of a website. It is the part of the website that users
+				cannot see and interact. It is the portion of software that does not come in direct contact with the
+				users. It is used to store and arrange data.</li>
+		</ul>
+	</ul>
+	</p>
+</body>
+
+</html>
