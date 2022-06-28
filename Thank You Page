@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>Thank You</title>
+
+    <style>
+        body {
+            background-color: #000000;
+            color: #1be27e;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 align="center">
+        THANK YOU FOR FILLING OUT THE FORM !!
+    </h1>
+</body>
+
+</html>
