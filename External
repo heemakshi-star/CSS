@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>
+            CSS
+        </h1>
+        <br><br>
+        <p>
+            Cascading Style Sheet (CSS) is a style sheet language used to style an HTML document.CSS describes how HTML elements should be displayed.
+        </p>
+    </body>
+</html>
