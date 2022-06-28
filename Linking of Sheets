@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+    <title>Linking of sheets</title>
+</head>
+<style>
+    a.link {
+        color: blue;
+        background-color: pink;
+        text-decoration: red;
+    }
+    a.visited {
+        color: orange;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a.hover {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a.active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: none;
+    }
+</style>
+<body>
+    <p>There are several browsers available,
+        such as <a href="https://www.mozilla.org/en-US/firefox/new/" target="blank">Mozilla Firefox</a>,
+        <a
+            href="https://www.google.com/chrome/?brand=YTUH&gclid=EAIaIQobChMI-vjfnu6u9wIVrkBIAB2-YgHnEAAYASAAEgLQI_D_BwE&gclsrc=aw.ds" target="blank">Google
+        </a>, and
+        <a href="https://www.microsoft.com/en-us/edge" target="blank">Microsoft Edge</a>.
+    </p>
+</body>
+</html>
